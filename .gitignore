@@ -1,0 +1,10 @@
+node_modules/
+# Build files
+build/
+dist/
+# Other files
+temp/
+.vs/
+.idea/
+*.iml
+.DS_Store
