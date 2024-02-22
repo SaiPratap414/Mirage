@@ -1,0 +1,22 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Bender 2D_EXP.moc3",
+		"Textures": [
+			"Bender 2D_EXP.1024/texture_00.png"
+		],
+		"DisplayInfo": "Bender 2D_EXP.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	]
+}
